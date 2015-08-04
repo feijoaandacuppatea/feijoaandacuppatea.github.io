@@ -1,8 +1,7 @@
 # Site settings
 title: Feijoa and a Cuppa Tea
 email: feijoaandacuppatea@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  some personal ramblings
+description: some personal ramblings during various tabi # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 twitter_username: 
