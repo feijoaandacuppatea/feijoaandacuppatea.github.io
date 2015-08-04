@@ -5,24 +5,51 @@ gems:
   - jemoji
   
 # Site settings
-title: "Feijoa and a Cuppa Tea"
+title: "Mediator"
 description: > # this means to ignore newlines until "email:"
-   Some personal ramblings on tabi
+   A Jekyll theme - Medium inspired
 
-email: feijoaandacuppatea@gmail.com
+email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "/assets/images/cover.jpg"
+cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Ting'
-author: 'Ting'
-author_image: "/assets/images/ting.jpg"
+name: 'Dirk Fabisch'
+author: 'Dirk Fabisch'
+author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "" # the base hostname & protocol for your site
+url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/dirkfabisch
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/dirkfabisch
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
