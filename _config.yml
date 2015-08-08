@@ -5,7 +5,7 @@ gems:
   - jemoji
   
 # Site settings
-title: "Feijoa and a Cuppa "
+title: "Feijoa and a Cuppa Tea"
 description: > # this means to ignore newlines until "email:"
    Some personal ramblings on tabi
 
@@ -13,7 +13,7 @@ email: feijoaandacuppatea@gmail.com
 #blog logo
 logo: "/assets/images/logo.bmp"
 # blog cover
-cover: "/assets/images/cover.jpg"
+cover: "/assets/images/coverleaf.jpg"
 
 name: 'Ting'
 author: 'Ting'

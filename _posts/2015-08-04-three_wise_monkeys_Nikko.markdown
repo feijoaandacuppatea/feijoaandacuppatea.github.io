@@ -2,8 +2,8 @@
 layout: post
 title:  "The 3 wise monkeys: Nikko - Day 1"
 date:   2015-08-04
-categories: travel
+categories: travel Japan
 tags: featured
-image: /assets/article_images/2015-08-04-three_wise_monkeys_Nikko/monkeyscarving.jpg
+image: /assets/article_images/2015-08-04-three_wise_monkeys_Nikko/3wisemonkeys.jpg
 ---
 
