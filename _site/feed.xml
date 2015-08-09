@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 09 Aug 2015 16:14:03 +1200</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2015 16:14:03 +1200</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2015 16:18:15 +1200</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2015 16:18:15 +1200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,7 +15,7 @@
         <description>&lt;h1&gt;Why Nikko?&lt;/h1&gt;
 
 &lt;p&gt;&amp;#39;see no evil, hear no evil, speak no evil&amp;#39; maxim that was popularised by a carving found in Nikko - located north of Tokyo, Japan,
-&lt;figure class=&quot;caption&quot;&gt;
+&lt;div class=&quot;caption&quot;&gt;
     &lt;img class=&quot;caption__media&quot; src=&quot;/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/monkeyscarving.jpg&quot; /&gt;
     &lt;div class=&quot;caption__overlay&quot;&gt;
         &lt;h2 class=&quot;caption__overlay__title&quot;&gt;Mizaru, Iwazaru, Kikazaru &lt;/h2&gt;
@@ -23,13 +23,13 @@
         Japanese is an agglutinative language, where the root of the verb is inflected at the end  - and in this case, &amp;#39;mi(ru)&amp;#39; to see, &amp;#39;kik(u)&amp;#39; to hear, &amp;#39;i(u)&amp;#39; to say, - inflected with zaru - which in classical Japanese denotes the negative present tense - zaru or saru - can also mean monkey (you will see often a voiceless consonant /s/ becomes voiced /z/ when you glue two Japanese nouns together)
         &lt;/p&gt;
     &lt;/div&gt;
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Basho&amp;#39;s (dates- one of the most famous haiku master)&amp;#39;The Narrow Road to the Deep North (Oku no Hosomichi)&amp;#39; which documents Basho&amp;#39;s travel to the North, starting from Edo (today&amp;#39;s Tokyo). Nikko was the 5th station on Basho&amp;#39;s journey -&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;caption&quot;&gt;
+&lt;div class=&quot;caption&quot;&gt;
     &lt;img class=&quot;caption__media&quot; src=&quot;/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/sunlight.jpg&quot; /&gt;
     &lt;div class=&quot;caption__overlay&quot;&gt;
         &lt;h2 class=&quot;caption__overlay__title&quot;&gt;Basho and his journey to the deep north&lt;/h2&gt;
@@ -39,7 +39,7 @@
         hi no hikari                 the radiance of the sun!)
         &lt;/p&gt;
     &lt;/div&gt;
-&lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;h1&gt;Day 1&lt;/h1&gt;
 

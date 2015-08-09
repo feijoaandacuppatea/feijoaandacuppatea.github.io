@@ -8,7 +8,7 @@ image: /assets/article_images/2015-08-04-three_wise_monkeys_Nikko/3wisemonkeys.j
 ---
 # Why Nikko?
 'see no evil, hear no evil, speak no evil' maxim that was popularised by a carving found in Nikko - located north of Tokyo, Japan,
-<figure class="caption">
+<div class="caption">
     <img class="caption__media" src="/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/monkeyscarving.jpg" />
     <div class="caption__overlay">
         <h2 class="caption__overlay__title">Mizaru, Iwazaru, Kikazaru </h2>
@@ -16,13 +16,13 @@ image: /assets/article_images/2015-08-04-three_wise_monkeys_Nikko/3wisemonkeys.j
         Japanese is an agglutinative language, where the root of the verb is inflected at the end  - and in this case, 'mi(ru)' to see, 'kik(u)' to hear, 'i(u)' to say, - inflected with zaru - which in classical Japanese denotes the negative present tense - zaru or saru - can also mean monkey (you will see often a voiceless consonant /s/ becomes voiced /z/ when you glue two Japanese nouns together)
         </p>
     </div>
-</figure>
+</div>
 
 
 - Basho's (dates- one of the most famous haiku master)'The Narrow Road to the Deep North (Oku no Hosomichi)' which documents Basho's travel to the North, starting from Edo (today's Tokyo). Nikko was the 5th station on Basho's journey -
 
 
-<figure class="caption">
+<div class="caption">
     <img class="caption__media" src="/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/sunlight.jpg" />
     <div class="caption__overlay">
         <h2 class="caption__overlay__title">Basho and his journey to the deep north</h2>
@@ -32,7 +32,7 @@ image: /assets/article_images/2015-08-04-three_wise_monkeys_Nikko/3wisemonkeys.j
         hi no hikari                 the radiance of the sun!)
         </p>
     </div>
-</figure>
+</div>
 
 
 # Day 1
