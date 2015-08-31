@@ -7,22 +7,13 @@ tags: featured
 image: /assets/article_images/2015-08-04-three_wise_monkeys_Nikko/3wisemonkeys.jpg
 ---
 # Why Nikko?
-You know the 3 monkeys emoticons that you can often see on mobile IM apps? They represent the 'see no evil, hear no evil, speak no evil' maxim that was popularised by a carving found in Nikko - located north of Tokyo, Japan, and one of the main reasons we decided to visit Nikko on our 2014 December trip to Japan.
 
-<div class="caption">
-    <img class="caption__media" src="/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/monkeyscarving.jpg" />
-    <div class="caption__overlay">
-        <h2 class="caption__overlay__title">Mizaru, Iwazaru, Kikazaru </h2>
-        <p class="caption__overlay__content">Explanation of Mizaru, Kikazaru, Iwazaru on photo:
-        Japanese is an agglutinative language, where the root of the verb is inflected at the end  - and in this case, 'mi(ru)' to see, 'kik(u)' to hear, 'i(u)' to say, - inflected with zaru - which in classical Japanese denotes the negative present tense - zaru or saru - can also mean monkey (you will see often a voiceless consonant /s/ becomes voiced /z/ when you glue two Japanese nouns together)
-        </p>
-    </div>
+
+
+
+<div class="full-width">
+<div class="full-width-image" style="background-image: url(/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/sunlight.jpg)"></div>
 </div>
-
-
-I first heard of Nikko in my Japanese Edo literature course through Basho's (dates- one of the most famous haiku master)'The Narrow Road to the Deep North (Oku no Hosomichi)' which documents Basho's travel to the North, starting from Edo (today's Tokyo). Nikko was the 5th station on Basho's journey -
-
-
 <div class="caption">
     <img class="caption__media" src="/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/sunlight.jpg" />
     <div class="caption__overlay">
@@ -31,7 +22,7 @@ I first heard of Nikko in my Japanese Edo literature course through Basho's (dat
         "On the First of the Fourth Month, we went to worship at the shrine. In antiquity, the name of that holy mountain was written Nikousan  [Two-Storm Mountain]. but the Great Teacher Kukai changed it to Nikko [Sunlight] when he founded the temple."Classical Japanese Prose: An Anthology, edited by Helen Craig McCullough pg525
         ara tooto                      Ah, awesome sight!
         aoba wakaba no        on summer leaves and spring leaves,
-        hi no hikari                 the radiance of the sun!)
+        hi no hikari                 the radiance of the sun)
         </p>
     </div>
 </div>
@@ -60,3 +51,12 @@ With most of the day still ahead of us, we boarded one of the 3 touring-route bu
 - we missed our bus, but not without merit. We were able to stumble across [music box shop: which I have also seen branches in Otaru and Kyoto- Arashiyama]. We spent a good half hour there just admiring all the different types of music juke boxes [photo explanation] (Sorry C!)
 - also we were able to walk past the God's bridge [whatever the name is in Japanese] which is also one of the attractions recommended to us.
 Walking on the one main road in Nikko city at night (it wasn't even five yet!) was charming, with hints of cold (better word?) and hunger. We decided to head all the way back to our room first before coming out for dinner. There are many choices of local shops around so we had plenty to choose from (caters for both my vegetarian companion S and meat lover C)
+
+<div class="caption">
+    <img class="caption__media" src="/assets/article_images/2015-08-04-three_wise_monkeys_Nikko/monkeyscarving.jpg" width="800px"/>
+    <div class="caption__overlay">
+        <h2 class="caption__overlay__title">Mizaru, Iwazaru, Kikazaru </h2>
+        <p class="caption__overlay__content">Explanation of Mizaru, Kikazaru, Iwazaru on photo:
+        </p>
+    </div>
+</div>

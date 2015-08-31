@@ -11,7 +11,7 @@
 $rs: 16px
 
 $font-serif: Linux Libertine
-$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+$font-sans: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif, Monaco
 
 
 @mixin respond-to($breakpoint)
@@ -169,6 +169,7 @@ body
         text-decoration: none
         &:hover
           text-decoration: underline
+
 .container.featured
   padding-bottom: 40px
 
@@ -345,6 +346,21 @@ body
     width: 100%
     font-family: $font-serif
     color: #333
+    .full-width
+      overflow: hidden
+      position: relative
+      width: 2012px
+      height: 1050px
+      margin-left: -750px
+      .full-width-image
+        position: absolute
+        left: 0
+        right: 0
+        height: auto
+        min-width: 100%
+        overflow: auto
+        background-size: cover
+        background-position: center center
     h1, h2, h3
       font-family: $font-sans
     h3, h4, h5, h6
@@ -604,6 +620,13 @@ pre
     padding-right: 0
     padding-left: 0
 
+.bannerimage
+  position: relative
+  overflow: hidden
+  display: block
+  margin: 0 -1000px !important
+  min-width: 100%
+  height: auto
 
 .caption
   position: relative
@@ -612,7 +635,7 @@ pre
 .caption__media
   display: block
   min-width: 100%
-  max-width: 100%
+  max-width: none !important
   height: auto
 
 .caption__overlay
@@ -656,3 +679,20 @@ pre
 .caption:hover::before
   background: rgba(0, 0, 0, .5)
   color: white
+
+#bg
+  position: fixed
+  top: -50%
+  left: -50%
+  width: 200%
+  height: 200%
+
+#bg img
+  position: absolute
+  top: 0
+  left: 0
+  right: 0
+  bottom: 0
+  margin: auto
+  min-width: 50%
+  min-height: 50%

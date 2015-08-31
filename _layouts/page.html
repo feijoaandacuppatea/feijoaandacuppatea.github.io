@@ -42,6 +42,9 @@
           {{content}}
         </section>
       </article>
+      {% if page.comments %}
+        {% include comments.html %}
+      {% endif %}
     </main>
     <div class="bottom-closer">
       <div class="background-closer-image" {%if site.cover %} style="background-image: url({{ site.cover }})"{% endif %}>

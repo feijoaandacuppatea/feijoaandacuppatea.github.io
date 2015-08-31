@@ -475,6 +475,21 @@ body {
   width: 100%;
   font-family: Linux Libertine;
   color: #333; }
+  .post .post-content .full-width {
+    overflow: hidden;
+    position: relative;
+    width: 2012px;
+    height: 1050px;
+    margin-left: -750px; }
+    .post .post-content .full-width .full-width-image {
+      position: absolute;
+      left: 0;
+      right: 0;
+      height: auto;
+      min-width: 100%;
+      overflow: auto;
+      background-size: cover;
+      background-position: center center; }
   .post .post-content h1, .post .post-content h2, .post .post-content h3 {
     font-family: Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif; }
   .post .post-content h3, .post .post-content h4, .post .post-content h5, .post .post-content h6 {
@@ -742,6 +757,14 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
+.bannerimage {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  margin: 0 -1000px !important;
+  min-width: 100%;
+  height: auto; }
+
 .caption {
   position: relative;
   overflow: hidden; }
@@ -749,7 +772,7 @@ pre {
 .caption__media {
   display: block;
   min-width: 100%;
-  max-width: 100%;
+  max-width: none !important;
   height: auto; }
 
 .caption__overlay {
@@ -793,3 +816,20 @@ pre {
 .caption:hover::before {
   background: rgba(0, 0, 0, 0.5);
   color: white; }
+
+#bg {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%; }
+
+#bg img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%; }
