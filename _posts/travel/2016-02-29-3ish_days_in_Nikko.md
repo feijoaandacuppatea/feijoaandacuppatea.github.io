@@ -24,12 +24,14 @@ Our little travelling group consists of a bunch of hermits who prefer to be some
 ##reasons to leave our hermit habitat
 Probably not on your typical list of places to visit in Japan (usually consists of Tokyo and Osaka/Kyoto), but Nikkō in the Tōchigi prefecture has all the elements to make your trip a fulfilling 'Japanese' experience (whatever that means). Just couple hours by train north of Tokyo, you can visit the shrine where the first Tokugawa shogun was buried, experience one of the three most beautifully ranked waterfalls in Japan, and spot wild monkeys on the road, it really covers most things you need to see in Japan (who doesn't want to see random monkeys crossing the road right?).
 
-![Nikko - city of sunlight]({{page.imgUrl}}sunlight.jpg)
+[Monkeys on the street]({{page.imgUrl}}wildmonkey.jpg)
+*Wild monkeys on the street*
+<!-- ![Nikko - city of sunlight]({{page.imgUrl}}sunlight.jpg) -->
 
 Not to mention these three wise monkeys :see_no_evil: :speak_no_evil: :hear_no_evil:! The mizaru, iwazaru and kikazaru (みざる いわざる きかざる) monkeys were actually made popular from a carving found in the Tōshōgu (東照宮), one of the attraction sites in Nikkō. Even Bashō (松尾 芭蕉, 1644 – 1694), the famous haiku poet from the Edo period, mentions Nikkō in one of his most famous work - The Narrow Road to the Interior (奥の細道 Oku no Hosomichi)- which is actually where I first heard of this little 'sunshine' (Nikkō literally translate to sunshine/sunlight) city. Bashō's haiku must have left an impact, because without any other prior knowledge of the place, it made it to our short Kantō itinerary (Yay).
 
-![The Tobu Nikko train station (look at how deserted it is!)]({{page.imgUrl}}nikko-station-resized.jpg)<br/>
-*The Tobu Nikko train station (look at how deserted it is!)*
+![The Tobu Nikko train station]({{page.imgUrl}}tobuNikkoStation.jpg)<br/>
+*The Tobu Nikko train station*
 
 <!-- In fact, do these look familiar: :see_no_evil: :speak_no_evil: :hear_no_evil:? These three wise monkeys (みざる いわざる きかざる) you can find on most smart phones these days were actually made popular from a carving found in Tōshōgu (東照宮), the mausoleum of the first Shogun. Even Bashō (松尾 芭蕉, 1644 – 1694), the famous haiku poet from the Edo period, mentions Nikkō in one of his most famous work - The Narrow Road to the Interior (奥の細道 Oku no Hosomichi)- which is actually where I first heard of this little 'sunshine' (Nikkō literally translate to sunshine/sunlight) city. Bashō's haiku must have left an impact, because without any other prior knowledge of the place, it made it to our short Kantō itinerary, and I'm glad it did. -->
 
@@ -38,6 +40,8 @@ Not to mention these three wise monkeys :see_no_evil: :speak_no_evil: :hear_no_e
 
 We were here for three nights, two nights in the actual Nikkō city, and one in Kinugawa, an onsen (hot spring) town a lil bit up north, so this post will be split into three parts: [Nikkō Part1](../2016-02-29-Nikko_part1), Part2 and Part3.
 
+![Streets of Nikko]({{page.imgUrl}}nikkoStreet.jpg)<br/>
+*Streets of Nikko*
 <!-- 東照宮 Tōshō-gū: 'Lavish mausoleum of Tokugawa Ieyasu - first Shogun'
 
 ![5t]({{page.imgUrl}}toshoguBW.jpg) -->
@@ -62,6 +66,9 @@ Since we also included Kinugawa (鬼怒川) in our trip, we went with the All Ni
 
 ![The routes that the All Nikko Pass covers]({{page.imgUrl}}allnikkomap.png)<br/>
 *The routes that the All Nikko Pass covers*
+
+![The All Nikko Pass]({{page.imgUrl}}allNikkoPass.png)<br/>
+*The All Nikko Pass (remember to keep it in a safe place throughout your journey)*
 
 Just couple of important points to note:
 - The pass includes *one* set of return tickets between Tōkyō (Tōbu line) and Nikkō. This means that while you can travel freely within the Nikkō region, you can only go back to Tōkyō once
