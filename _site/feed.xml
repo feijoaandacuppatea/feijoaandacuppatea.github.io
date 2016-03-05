@@ -3,10 +3,10 @@
   <channel>
     <title>Feijoa and a Cuppa Tea</title>
     <description>some personal and post travel ramblings</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 05 Mar 2016 23:00:44 +1300</pubDate>
-    <lastBuildDate>Sat, 05 Mar 2016 23:00:44 +1300</lastBuildDate>
+    <link>http://feijoaandacuppatea.github.io/</link>
+    <atom:link href="http://feijoaandacuppatea.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 06 Mar 2016 12:17:29 +1300</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2016 12:17:29 +1300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -14,15 +14,9 @@
         <description>&lt;p&gt;Having arrived in Nikkō before noon, we still had the bulk of the day ahead of us to explore the famous two shrines and one temple (2社１寺), our main itinerary for the day. (woohoo!)&lt;/p&gt;
 
 &lt;h1 id=&quot;getting-there&quot;&gt;Getting there&lt;/h1&gt;
-&lt;p&gt;We boarded one of the attraction sight circle buses (a local bus) and after a short twenty minutes, arrived at our first destination. Weather was lovely (Sasuga city of sunlight!) and warmer than we expected
-&amp;lt;!–&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;/images/article_images/2015-08-04-three_wise_monkeys_Nikko/nikkoSky.jpg&quot; /&gt;
-    &lt;figcaption&gt;clear sky view of countryside from the bus&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;–&amp;gt;&lt;/p&gt;
+&lt;p&gt;We boarded one of the attraction sight circle buses (a local bus) and after a short twenty minutes, arrived at our first destination. Weather was lovely (Sasuga city of sunlight!) and warmer than we expected&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/nikkoSky.jpg&quot; alt=&quot;clear sky view of countryside from the bus&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1//nikkoSky.jpg&quot; alt=&quot;clear sky view of countryside from the bus&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;the-two-shrines-and-one-temple-2&quot;&gt;The two shrines and one temple (2社１寺)&lt;/h1&gt;
 &lt;p&gt;Recognised as a World Heritage site in 1998, the 2社１寺 which consists of the Tōshō-gū (東照宮), Futarasan shrine and the Rinnō-ji (the first two are shrines, the third one is the temple) are impressive each in their own right.
@@ -31,84 +25,86 @@
 &lt;p&gt;Another interesting fact, originally the Tōshō-gū was actually called Tōshō-sha, where sha 社 means shrine in Japanese, and Ieyasu (the first Tokugawa shogun) was buried there. So after the government wanting to separate between shrines and temples (temples being associated with Tokugawa and the ‘bad’), they had to change the name to ‘gū’, which means palace.&lt;/p&gt;
 
 &lt;h2 id=&quot;tsh-g&quot;&gt;Tōshō-gū&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1/toshoguColour.jpg&quot; alt=&quot;Lavish mausoleum of the first Shogun&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/toshoguColour.jpg&quot; alt=&quot;Lavish mausoleum of the first Shogun&quot; /&gt;
 &lt;em&gt;Tōshō-gū (東照宮) mausoleum of the first Shogun&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/toshoguBW.jpg&quot; alt=&quot;Entrance to the Tōshō-gū&quot; /&gt;
-&lt;em&gt;Entrance to the Tōshō-gū&lt;/em&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/toshoguBW.jpg&quot; alt=&quot;Entrance to the Tōshō-gū&quot; /&gt;
+&lt;em&gt;Entrance to the Tōshō-gū&lt;/em&gt;&lt;/p&gt;
+
 &lt;!-- But firstly, let's talk about the differences between shrines and temples in Japan.  
-significance of why these are so clearly distinguished as the two shrines and one temple (in Japan historically and nowadays, the differences between shrines and temples are very vague, not clear distinction): originally Tōshō-gū was named Tōshō-sha (sha meaning shrine in Japanese before Ieyasu was buried and gū means palace). In 1871 - Meiji 4, there was the shinbutsubunrirei (神仏分離令) to separate all shrines from temples and burrning and destroying all temples are Buddhism was seen as the relgiion of the Tokugawa family. As the Meiji government wanted show people that they are different to the Tokugawa family and reinstate the imperial family, they raised the status of Shintoism from a national religion to state religion which protects and worship the emperor as the head of Shintoism. --&gt;&lt;/p&gt;
+significance of why these are so clearly distinguished as the two shrines and one temple (in Japan historically and nowadays, the differences between shrines and temples are very vague, not clear distinction): originally Tōshō-gū was named Tōshō-sha (sha meaning shrine in Japanese before Ieyasu was buried and gū means palace). In 1871 - Meiji 4, there was the shinbutsubunrirei (神仏分離令) to separate all shrines from temples and burrning and destroying all temples are Buddhism was seen as the relgiion of the Tokugawa family. As the Meiji government wanted show people that they are different to the Tokugawa family and reinstate the imperial family, they raised the status of Shintoism from a national religion to state religion which protects and worship the emperor as the head of Shintoism. --&gt;
 
 &lt;!-- &lt;div class=&quot;page-feature&quot;&gt;
 	&lt;div class=&quot;page-image&quot;&gt;
 		&lt;img src=&quot;/images/article_images/2015-08-04-three_wise_monkeys_Nikko/sunlight.jpg&quot; class=&quot;page-feature-image&quot; itemprop=&quot;image&quot;&gt;
 	&lt;/div&gt;&lt;!-- /.page-image
 &lt;/div&gt;&lt;!-- /.page-feature --&gt;
-&lt;p&gt;–&amp;gt;&lt;/p&gt;
 
 &lt;!-- The Tōshō-gū is the mausoleum of Tokugawa Ieyasu (), the first Shogun of Japan. Extravagant and lavish, this was meant to show the power and wealth of the Tokugawa family. --&gt;
 
 &lt;p&gt;Anyway, the Tōshō-gū is the mausoleum of Tokugawa Ieyasu, built by Ieyasu’s son Hidetada, and later extravagant-ised by Ieyasu’s grandson Iemitsu, to show the power and wealth of the Tokugawa family at the time.
 &lt;!-- Built by Ieyasu's son Hidetada according to Ieyasu's will to be buried in Nikko, this was later expanded and extravagant-ised by Iemitsu - the third Shogun and Ieyasu's grandson. It took a year and 5 months to complete, over 45 million workers involved costing around 15 billion yen in today's value. --&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/toshoguTomon.jpg&quot; alt=&quot;Tōshō-gū Tōmon  regarded as national treasure&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/toshoguTomon.jpg&quot; alt=&quot;Tōshō-gū Tōmon  regarded as national treasure&quot; /&gt;
 &lt;em&gt;Tōshō-gū Tōmon regarded as national treasure, super bling bling&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/redShrine.jpg&quot; alt=&quot;Gojuto&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/redShrine.jpg&quot; alt=&quot;Gojuto&quot; /&gt;
 Going up some hundred flights of stone steps, you will end up at Ieyasu’s tomb. Don’t be put off by the stairs, it was a calm, breezy walk in surrounded by a mountain of bamboo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/ieyasuijun.jpg&quot; alt=&quot;One of Ieyasu's leaving words: Life is like unto a long journey with a heavy burden. Let thy step be slow and steady, that thou stumble not.&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/ieyasuijun.jpg&quot; alt=&quot;One of Ieyasu's leaving words: Life is like unto a long journey with a heavy burden. Let thy step be slow and steady, that thou stumble not.&quot; /&gt;
 &lt;em&gt;One of Ieyasu’s leaving words: Life is like unto a long journey with a heavy burden. Let thy step be slow and steady, that thou stumble not.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This is also where we found the 3 wise monkeys!
-&lt;a href=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/mounkeyscarving.jpg&quot;&gt;Carving of the three wise monkeys&lt;/a&gt;
+&lt;p&gt;This is also where we found the 3 wise monkeys!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/monkeyscarving.jpg&quot; alt=&quot;Carving of the three wise monkeys&quot; /&gt;
 &lt;em&gt;Carving of the three wise monkeys&lt;/em&gt;
-one of the main reason I wanted to visit Nikko. It was smaller than I thought, but just look at these cute omamori keyrings!
-&lt;a href=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/threeWiseMonkeysKeychain.jpg&quot;&gt;the 3 wise monkeys omamori&lt;/a&gt;
+one of the main reason I wanted to visit Nikko. It was smaller than I thought, but just look at these cute omamori keyrings!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/threeWiseMonkeysKeychain.jpg&quot; alt=&quot;the 3 wise monkeys omamori&quot; /&gt;
 &lt;em&gt;The 3 wise monkeys omamori, I chose the speak-no-evil one as a reminder ha ha ha&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;(Do you know why monkeys are used to represent these sayings? In Japanese, they are: miwazaru, kikazaru, iwazaru, which are translated roughly from olden Japanese to do no see, hear or speak [evil]. “saru” means monkey in Japanese, so it’s really a play on the words)&lt;/p&gt;
 
 &lt;h2 id=&quot;futarasan-shrine-&quot;&gt;Futarasan shrine 二荒山神社&lt;/h2&gt;
 &lt;p&gt;Dedicated to Nikko’s sacred mountains, which was also mentioned in Basho’s haiku journal
-&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/futarasan.jpg&quot; alt=&quot;Futarasan&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/futarasan.jpg&quot; alt=&quot;Futarasan&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It spans 3400 hectars, and encapusulate the whole of the Nikko mountain area, from this shrine, to Chuuzenji (which we visited in part 2). This main building was actually moved next to the Tōshō-gū in 1619 and is the oldest building in the Nikko mountain area.
 &lt;!-- Futarasan shrine: dedicated to Nikko's sacred mountains - mentioned in Basho's journal ![Futarasan](/images/article_images/2016-02-29-nikko_part1/futarasan.jpg)
 Spanning 3400 hectars, the Futarasan shrine encapusulate the whole of the Nikko mountain area - from Chuuzenji (which we visited in part 2 the next day by bus). The main building was moved to next to the Tōshō-gū in 1619 and the oldest building in the Nikko mountain area. --&gt;&lt;/p&gt;
 
 &lt;p&gt;It is also known to be an enmusubi (relationship) shrine (just look at the cute heart shape things you put your omikuji on! - omikuji is usually a small piece of paper where some fortune telling thing is written on it, and depending on what you get you are meant to tie it onto a tree branch or somewhere within the shrine)
-&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/heartSHapedOmamori.jpg&quot; alt=&quot;Heart shaped things to tie your omikuji on&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/heartSHapedOmamori.jpg&quot; alt=&quot;Heart shaped things to tie your omikuji on&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Unfortunately the sun was setting and we didn’t have enough time to see the third and only temple - the Rinnō-ji (again, beware of the closing time for winter) so we left it for the next day.&lt;/p&gt;
 
 &lt;h2 id=&quot;taiyuibyo-&quot;&gt;Taiyuibyo 大猷院廟&lt;/h2&gt;
 &lt;p&gt;We did manage to sneak into a quick look into Taiyuinbyo (大猷院廟), the Mausolem of Iemitsu - grandson of Ieyasu. Much more stoic looking than his grandfather’s, but still grand enough. Couldn’t get a closer look though since it was near closing time :( :sadface:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/silouette.jpg&quot; alt=&quot;Going up the stairs to the tomb&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/silouette.jpg&quot; alt=&quot;Going up the stairs to the tomb&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On the way back, since we missed the last bus (again beware that the winter bus timetable ends very early!) we had to walk back to the town centre. It was good that we missed out last bus, because we got to pass by this cute little music jukebox shop, and the cute little bridge shinkyo 神橋 - which is also part of the Futarasan shrine. Translated to the gods’ bridge, it’s not meant for humans to cross.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/musicBox.jpg&quot; alt=&quot;music box&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/musicBox.jpg&quot; alt=&quot;music box&quot; /&gt;
 &lt;em&gt;cute music jukebox - I think they have the same shop in Otaru and Kyoto Arashiyama as well&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/origon.jpg&quot; alt=&quot;origons&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/origon.jpg&quot; alt=&quot;origons&quot; /&gt;
 &lt;em&gt;and more cute music jukeboxes, or they call them origons?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/shinkyo.jpg&quot; alt=&quot;shinkyo - the bridge for the gods&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/shinkyo.jpg&quot; alt=&quot;shinkyo - the bridge for the gods&quot; /&gt;
 &lt;em&gt;shinkyo - the bridge for the gods&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Another plus to having missed the bus was that we get to walk through the small town of Nikko in twilight. Dim lighting on the streets, giving an entirely different atmosphere from daytime. (We were almost the only ones on the street walking back to town, plus one to our love for small towns !)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-nikko_part1//images/article_images/2016-02-29-nikko_part1/nikkotownAtNight.jpg&quot; alt=&quot;Nikko at night&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-nikko_part1/nikkotownAtNight.jpg&quot; alt=&quot;Nikko at night&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We found early December to be a suitable time to visit, leaves were still intact and turning red (momiji), and the cold was manageable with proper coats.&lt;/p&gt;
 
 &lt;p&gt;We took our time to explore this area, unfortunately though, everything closes at or before 5pm, with last entry at around 4.30pm this time of the year (so research beforehand!). It also started to get dark around then as well (which can be nice). Definitely not a ‘nightlife’ city as most of the township was deserted by the time it got dark (not that it mattered very much since we aren’t night people), but instead we enjoyed the tranquility of the night walking to grab dinner and supermarket for breakfast the next day.&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 +1300</pubDate>
-        <link>/travel/Nikko_part1/</link>
-        <guid isPermaLink="true">/travel/Nikko_part1/</guid>
+        <link>http://feijoaandacuppatea.github.io/travel/Nikko_part1/</link>
+        <guid isPermaLink="true">http://feijoaandacuppatea.github.io/travel/Nikko_part1/</guid>
         
         <category>Nikko,</category>
         
@@ -133,13 +129,13 @@ Spanning 3400 hectars, the Futarasan shrine encapusulate the whole of the Nikko 
 &lt;h2 id=&quot;reasons-to-leave-our-hermit-habitat&quot;&gt;reasons to leave our hermit habitat&lt;/h2&gt;
 &lt;p&gt;Probably not on your typical list of places to visit in Japan (usually consists of Tokyo and Osaka/Kyoto), but Nikkō in the Tōchigi prefecture has all the elements to make your trip a fulfilling ‘Japanese’ experience (whatever that means). Just couple hours by train north of Tokyo, you can visit the shrine where the first Tokugawa shogun was buried, experience one of the three most beautifully ranked waterfalls in Japan, and spot wild monkeys on the road, it really covers most things you need to see in Japan (who doesn’t want to see random monkeys crossing the road right?).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/wildmonkey.jpg&quot;&gt;Monkeys on the street&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/wildmonkey.jpg&quot;&gt;Monkeys on the street&lt;/a&gt;
 &lt;em&gt;Wild monkeys on the street&lt;/em&gt;
 &lt;!-- ![Nikko - city of sunlight](/images/article_images/2016-02-29-3ish_days_in_Nikko/sunlight.jpg) --&gt;&lt;/p&gt;
 
 &lt;p&gt;Not to mention these three wise monkeys &lt;img class=&quot;emoji&quot; title=&quot;:see_no_evil:&quot; alt=&quot;:see_no_evil:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f648.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:speak_no_evil:&quot; alt=&quot;:speak_no_evil:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f64a.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt; &lt;img class=&quot;emoji&quot; title=&quot;:hear_no_evil:&quot; alt=&quot;:hear_no_evil:&quot; src=&quot;https://assets.github.com/images/icons/emoji/unicode/1f649.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot; /&gt;! The mizaru, iwazaru and kikazaru (みざる いわざる きかざる) monkeys were actually made popular from a carving found in the Tōshōgu (東照宮), one of the attraction sites in Nikkō. Even Bashō (松尾 芭蕉, 1644 – 1694), the famous haiku poet from the Edo period, mentions Nikkō in one of his most famous work - The Narrow Road to the Interior (奥の細道 Oku no Hosomichi)- which is actually where I first heard of this little ‘sunshine’ (Nikkō literally translate to sunshine/sunlight) city. Bashō’s haiku must have left an impact, because without any other prior knowledge of the place, it made it to our short Kantō itinerary (Yay).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/tobuNikkoStation.jpg&quot; alt=&quot;The Tobu Nikko train station&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/tobuNikkoStation.jpg&quot; alt=&quot;The Tobu Nikko train station&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;The Tobu Nikko train station&lt;/em&gt;&lt;/p&gt;
 
 &lt;!-- In fact, do these look familiar: &lt;img class='emoji' title=':see_no_evil:' alt=':see_no_evil:' src='https://assets.github.com/images/icons/emoji/unicode/1f648.png' height='20' width='20' align='absmiddle' /&gt; &lt;img class='emoji' title=':speak_no_evil:' alt=':speak_no_evil:' src='https://assets.github.com/images/icons/emoji/unicode/1f64a.png' height='20' width='20' align='absmiddle' /&gt; &lt;img class='emoji' title=':hear_no_evil:' alt=':hear_no_evil:' src='https://assets.github.com/images/icons/emoji/unicode/1f649.png' height='20' width='20' align='absmiddle' /&gt;? These three wise monkeys (みざる いわざる きかざる) you can find on most smart phones these days were actually made popular from a carving found in Tōshōgu (東照宮), the mausoleum of the first Shogun. Even Bashō (松尾 芭蕉, 1644 – 1694), the famous haiku poet from the Edo period, mentions Nikkō in one of his most famous work - The Narrow Road to the Interior (奥の細道 Oku no Hosomichi)- which is actually where I first heard of this little 'sunshine' (Nikkō literally translate to sunshine/sunlight) city. Bashō's haiku must have left an impact, because without any other prior knowledge of the place, it made it to our short Kantō itinerary, and I'm glad it did. --&gt;
@@ -148,7 +144,7 @@ Spanning 3400 hectars, the Futarasan shrine encapusulate the whole of the Nikko 
 
 &lt;p&gt;We were here for three nights, two nights in the actual Nikkō city, and one in Kinugawa, an onsen (hot spring) town a lil bit up north, so this post will be split into three parts: &lt;a href=&quot;../Nikko_part1&quot;&gt;Nikkō Part1&lt;/a&gt;, Part2 and Part3.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/nikkoStreet.jpg&quot; alt=&quot;Streets of Nikko&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/nikkoStreet.jpg&quot; alt=&quot;Streets of Nikko&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Streets of Nikko&lt;/em&gt;
 &amp;lt;!– 東照宮 Tōshō-gū: ‘Lavish mausoleum of Tokugawa Ieyasu - first Shogun’&lt;/p&gt;
 
@@ -169,10 +165,10 @@ shinkyo --&gt;
 
 &lt;p&gt;Since we also included Kinugawa (鬼怒川) in our trip, we went with the All Nikko Pass that covers exactly the four day period we were there for (Info found at http://www.tobu.co.jp/foreign/). It costs 4520 yen (in 2014) and gives us the flexibility to travel between all the attractions we wanted to visit without paying any extra. This also allows you to ride on the bus lines mentioned above freely.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/allnikkomap.png&quot; alt=&quot;The routes that the All Nikko Pass covers&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/allnikkomap.png&quot; alt=&quot;The routes that the All Nikko Pass covers&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;The routes that the All Nikko Pass covers&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/allNikkoPass.png&quot; alt=&quot;The All Nikko Pass&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/allNikkoPass.png&quot; alt=&quot;The All Nikko Pass&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;The All Nikko Pass (remember to keep it in a safe place throughout your journey)&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Just couple of important points to note:
@@ -181,12 +177,12 @@ shinkyo --&gt;
 - The time period of the pass is inclusive, which means if you get the All Nikkō Pass, you have to return to Tōkyō on the fourth day for it to be effective
 - The pass does not include an express (Tokyuu) ticket, meaning you cannot ride on the Express trains unless you pay extra for it&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/skytreeOnTrain.jpg&quot; alt=&quot;Tokyo Sky Tree from the train&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/skytreeOnTrain.jpg&quot; alt=&quot;Tokyo Sky Tree from the train&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Tokyo Sky Tree from the train&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The train ride was pleasant and the weather was warm and cosy despite being December (Sasuga heading towards the sunlight city). Full of excitement as this was our first stop (S has looked past the disappointment during the train ride thankfully), we headed towards our lodge to check-in before commencing our exploration in the afternoon. (If you are staying somewhere further away, you can leave your luggage at the coin lockers at the station and do some touring first before coming back to collect them)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/trainToNikko.jpg&quot; alt=&quot;Training to Nikko&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/trainToNikko.jpg&quot; alt=&quot;Training to Nikko&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Training to Nikko&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;sleep&quot;&gt;sleep&lt;/h2&gt;
@@ -200,14 +196,14 @@ shinkyo --&gt;
 &lt;h2 id=&quot;eat&quot;&gt;eat&lt;/h2&gt;
 &lt;p&gt;Nikkō is famous for something called yuba, which is basically tofu skin. You can literally find it anywhere you go, with anything, but mostly with some sort of noodles like udon or soba.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;//images/article_images/2016-02-29-3ish_days_in_Nikko/yuba-soba-resized.jpg&quot; alt=&quot;We did get a bit sick of looking at yuba after awhile...&quot; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&quot;http://feijoaandacuppatea.github.io//images/article_images/2016-02-29-3ish_days_in_Nikko/yuba-soba-resized.jpg&quot; alt=&quot;We did get a bit sick of looking at yuba after awhile...&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;We did get a bit sick of looking at yuba after awhile…&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Anyway, if you wanted to know more, click onto Part1, 2 and 3 (when they eventually get uploaded…)&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 +1300</pubDate>
-        <link>/travel/3ish_days_in_Nikko/</link>
-        <guid isPermaLink="true">/travel/3ish_days_in_Nikko/</guid>
+        <link>http://feijoaandacuppatea.github.io/travel/3ish_days_in_Nikko/</link>
+        <guid isPermaLink="true">http://feijoaandacuppatea.github.io/travel/3ish_days_in_Nikko/</guid>
         
         <category>Nikko,</category>
         
