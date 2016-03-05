@@ -20,6 +20,7 @@ In 2014 December, the travel partners and I embarked on our little Kantō trip f
 
 ##disclaimer
 Our little travelling group consists of a bunch of hermits who prefer to be somewhere warm after sunset (especially in early winter) so that's how we tailored our itinerary - much relax and chill, and very little rush.
+Also, photos came from both S and I.
 
 ##reasons to leave our hermit habitat
 Probably not on your typical list of places to visit in Japan (usually consists of Tokyo and Osaka/Kyoto), but Nikkō in the Tōchigi prefecture has all the elements to make your trip a fulfilling 'Japanese' experience (whatever that means). Just couple hours by train north of Tokyo, you can visit the shrine where the first Tokugawa shogun was buried, experience one of the three most beautifully ranked waterfalls in Japan, and spot wild monkeys on the road, it really covers most things you need to see in Japan (who doesn't want to see random monkeys crossing the road right?).
