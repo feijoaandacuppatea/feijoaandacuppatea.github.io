@@ -1,5 +1,8 @@
-<!-- header start -->
-
-<a href="{{ site.url }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.logo }})"></span></a>
-
-<!-- header end -->
+<header id="masthead">
+  <div class="inner-wrap">
+    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <nav role="navigation" class="menu top-menu">
+        {% include navigation.html %}
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->

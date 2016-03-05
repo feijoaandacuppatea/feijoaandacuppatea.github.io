@@ -1,124 +1,177 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <meta charset="utf-8">
-  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-  <title>About</title>
-  <meta name="description" content="Some personal ramblings on tabi
-" />
-
-  <meta name="HandheldFriendly" content="True" />
-  <meta name="MobileOptimized" content="320" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-  <link rel="canonical" href="/about/">
-
-  <link rel="shortcut icon" href="/assets/images/favicon.ico">
-<!--  <link rel="stylesheet" href=""> -->
-  <link rel="stylesheet" href="http://brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
-  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
-</head>
-
-  <body itemscope itemtype="http://schema.org/Article">
-    <!-- header start -->
-
-<a href="" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/logo.bmp)"></span></a>
-
-<!-- header end -->
-
-    <main class="content" role="main">
-      <article class="post">
-        
-        <div class="noarticleimage">
-          <div class="post-meta">
-            <h1 class="post-title">About</h1>
-            <div class="cf post-meta-text">
-              <div class="author-image" style="background-image: url()">Blog Logo</div>
-              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
-            </div>
-          </div>
-        </div>
-        <br>
-        <br>
-        <br>
-        
-        <section class="post-content">
-          <a name="topofpage"></a>
-          <p>A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-<a href="http://www.svenread.com/readium-ghost-theme/">Readium 2.0</a>. I use mediator on my own blog <a href="blog.base68.com">The Base</a>.</p>
-
-<p>You can <strong>download</strong> the theme here:
-<a href="https://github.com/dirkfabisch/mediator">https://github.com/dirkfabisch/mediator</a> </p>
-
-<p>You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
-
-<p>You can find the source code for the Jekyll new theme at: <a href="https://github.com/jglovier/jekyll-new">github.com/jglovier/jekyll-new</a></p>
-
-<p>You can find the source code for Jekyll at <a href="https://github.com/jekyll/jekyll">github.com/jekyll/jekyll</a></p>
-
-        </section>
-      </article>
-    </main>
-    <div class="bottom-closer">
-      <div class="background-closer-image"  style="background-image: url(/assets/images/cover-leaf.jpg)">
-        Image
-      </div>
-      <div class="inner">
-        <h1 class="blog-title">Feijoa and a Cuppa Tea</h1>
-        <h2 class="blog-description">Some personal ramblings on tabi
-</h2>
-        <a href="/" class="btn">Back to Overview</a>
-      </div>
-    </div>
-    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
-<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-<script type="text/javascript" src="/assets/js/index.js"></script>
-<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
-<script>
-(function ($) {
-  "use strict";
-  $(document).ready(function(){
-
-    var $window = $(window),
-    $image = $('.post-image-image, .teaserimage-image');
+    <meta charset="utf-8">
+    <title>Random facts about this site and myself • Feijoa and a Cuppa Tea</title>
     
-      $window.on('scroll', function() {
-        var top = $window.scrollTop();
+    
+    
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="Random facts about this site and myself">
+	
+	
+	
+	
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:image" content="/images/feature_images/auckland-resized.jpg">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Random facts about this site and myself">
+	
+	<meta property="og:url" content="/about/">
+	<meta property="og:site_name" content="Feijoa and a Cuppa Tea">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans|Slabo|Ovo|Ubuntu' rel='stylesheet' type='text/css'>
 
-        if (top < 0 || top > 1500) { return; }
-        $image
-          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
-          .css('opacity', 1-Math.max(top/700, 0));
-      });
-      $window.trigger('scroll');
+    <link rel="canonical" href="/about/">
 
-      var height = $('.article-image').height();
-      $('.post-content').css('padding-top', height + 'px');
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Feijoa and a Cuppa Tea Atom Feed">
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
 
-      $('a[href*=#]:not([href=#])').click(function() {
-        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
-         && location.hostname == this.hostname) {
-          var target = $(this.hash);
-          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-          if (target.length) {
-            $('html,body').animate({ scrollTop: target.offset().top }, 500);
-            return false;
-          }
-        }
-      });
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
 
-  });
-}(jQuery));
+    <link rel="stylesheet" href="/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="/js/vendor/html5shiv.min.js"></script>
+      <script src="/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body id="js-body">
+    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+    <header id="masthead">
+  <div class="inner-wrap">
+    <a href="/" class="site-title">Feijoa and a Cuppa Tea</a>
+    <nav role="navigation" class="menu top-menu">
+        <ul class="menu-item">
+	<li class="home"><a href="/">Feijoa and a Cuppa Tea</a></li>
+	
+    
+        
+    
+    <li><a href="/about/" >about</a></li>
+  
+    
+        
+    
+    <li><a href="/travel/" >Travel</a></li>
+  
+    
+        
+    
+    <li><a href="/books/" >Books</a></li>
+  
+    
+        
+    
+    <li><a href="/crafts/" >Crafts</a></li>
+  
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+
+    <!--<nav role="navigation" id="js-menu" class="sliding-menu-content">
+  <h5>Feijoa and a Cuppa Tea <span>Table of Contents</span></h5>
+  <ul class="menu-item">
+    <li>
+      <a href="/about/">
+        
+        <div class="title">about</div>
+        <p class="excerpt">Some random facts about this site and me</p>
+      </a>
+    </li><li>
+      <a href="/travel/">
+        
+        <div class="title">Travel</div>
+        <p class="excerpt">Some post travel ramblings of places I walked</p>
+      </a>
+    </li><li>
+      <a href="/books/">
+        
+        <div class="title">Books</div>
+        <p class="excerpt">Some books that I have read along the way</p>
+      </a>
+    </li><li>
+      <a href="/crafts/">
+        
+        <div class="title">Crafts</div>
+        <p class="excerpt">Things I have been making with my hands and feet</p>
+      </a>
+    </li>
+  </ul>
+</nav>
+<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
+  <span class="nav-lines"></span>
+</button>
+
+<div id="js-menu-screen" class="menu-screen"></div>
+ -->
+
+    <div id="page-wrapper">
+      <div id="main" role="main">			
+	<div class="wrap">
+		
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="/images/feature_images/auckland-resized.jpg" class="page-feature-image" alt="Random facts about this site and myself">
+				
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		
+		<div class="page-title">
+			<h1>Random facts about this site and myself</h1>
+			
+		</div>
+		<div class="archive-wrap">
+			<div class="page-content">
+				<!-- A place where I ramble and document things and places I like -->
+<!-- on places she walked, books she read, and things she made.  -->
+<!-- Some ramblings from an average Hong Kong born kiwi to document things and places she liked. -->
+
+<p>Just a place where I ramble and document about bits and bobs of places I travelled, books I’ve read and things I made.</p>
+
+			</div><!-- /.page-content -->
+		</div class="archive-wrap"><!-- /.archive-wrap -->
+	</div><!-- /.wrap -->
+</div><!-- /#main -->
+      <footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		
+      
+        
+      
+			<li><a href="/subscribe/" >Subscribe</a></li>
+		
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2016 <a href="">Feijoa and a Cuppa Tea</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> + modified from <a href="http://mmistakes.github.io/skinny-bones-jekyll/" rel="nofollow">Skinny Bones</a>.</p>
+</footer>
+
+    </div>
+
+    <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="/js/main.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66094648-1', 'auto');
+  ga('send', 'pageview');
+
 </script>
 
-
   </body>
+
 </html>

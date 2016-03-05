@@ -1,28 +1,37 @@
-# Build settings
-markdown: redcarpet
+# Site wide configuration
+
+title: Feijoa and a Cuppa Tea
+description: some personal and post travel ramblings
+logo: /image/kappa.gif # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale:
+url:
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
 highlighter: pygments
 gems:
+  - jekyll-sitemap
   - jemoji
-  
-# Site settings
-title: "Feijoa and a Cuppa Tea"
-description: > # this means to ignore newlines until "email:"
-   Some personal ramblings on tabi
 
-email: feijoaandacuppatea@gmail.com
-#blog logo
-logo: "/assets/images/logo.bmp"
-# blog cover
-cover: "/assets/images/cover-leaf.jpg"
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  instagram: feijoaandacuppatea
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: kappa.jpg # 160x160 px image for author byline
+  disqus-shortname: feijoaandacuppatea
 
-name: 'Ting'
-author: 'Ting'
-author_image: "/assets/images/logo.bmp"
 
-paginate:	5
-
-url: "" # the base hostname & protocol for your site
-baseurl: ""
-
-# social icons and sharing options
-
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: about
+  url: /about/
+  excerpt: "Some random facts about this site and me"
+  image:
+
+- title: Travel
+  url: /travel/
+  excerpt: "Some post travel ramblings of places I walked"
+  image:
+
+- title: Books
+  url: /books/
+  excerpt: "Some books that I have read along the way"
+  image:
+
+- title: Crafts
+  url: /crafts/
+  excerpt: "Things I have been making with my hands and feet"
+  image:
