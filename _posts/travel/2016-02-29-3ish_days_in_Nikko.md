@@ -38,7 +38,7 @@ Not to mention these three wise monkeys :see_no_evil: :speak_no_evil: :hear_no_e
 
 <!-- Something about nikko countryside, population, photo of sky. ? -->
 
-We were here for three nights, two nights in the actual Nikkō city, and one in Kinugawa, an onsen (hot spring) town a lil bit up north, so this post will be split into three parts: [Nikkō Part1](../2016-02-29-Nikko_part1), Part2 and Part3.
+We were here for three nights, two nights in the actual Nikkō city, and one in Kinugawa, an onsen (hot spring) town a lil bit up north, so this post will be split into three parts: [Nikkō Part1](../Nikko_part1), Part2 and Part3.
 
 ![Streets of Nikko]({{ site.url }}/{{page.imgUrl}}nikkoStreet.jpg)<br/>
 *Streets of Nikko*
