@@ -5,8 +5,8 @@
     <description>some personal and post travel ramblings</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 05 Mar 2016 21:43:03 +1300</pubDate>
-    <lastBuildDate>Sat, 05 Mar 2016 21:43:03 +1300</lastBuildDate>
+    <pubDate>Sat, 05 Mar 2016 22:04:48 +1300</pubDate>
+    <lastBuildDate>Sat, 05 Mar 2016 22:04:48 +1300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -210,23 +210,6 @@ shinkyo --&gt;
         
         
         <category>travel</category>
-        
-      </item>
-    
-      <item>
-        <title>Book 2016</title>
-        <description>&lt;p&gt;kjkjkj fkdjfk ;jf;k las&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Feb 2016 00:00:00 +1300</pubDate>
-        <link>/books/test/</link>
-        <guid isPermaLink="true">/books/test/</guid>
-        
-        <category>books,</category>
-        
-        <category>2016</category>
-        
-        
-        <category>books</category>
         
       </item>
     
