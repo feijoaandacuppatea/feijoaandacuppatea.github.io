@@ -18,26 +18,21 @@ In 2014 December, the travel partners and I embarked on our little Kantō trip f
 (We had a slight disappointment when we found out the highlight of travel partner S - Edo wonderland, a theme park where you get to dress up as Edoites and roam around streets 300 or so years ago, was closed for maintenance during our time in Nikkō sadface :cry: she wanted to be a ninja)
 
 
-##disclaimer
+## disclaimer
 Our little travelling group consists of a bunch of hermits who prefer to be somewhere warm after sunset (especially in early winter) so that's how we tailored our itinerary - much relax and chill, and very little rush.
 Also, photos came from both S and I.
 
-##reasons to leave our hermit habitat
+## reasons to leave our hermit habitat
 Probably not on your typical list of places to visit in Japan (usually consists of Tokyo and Osaka/Kyoto), but Nikkō in the Tōchigi prefecture has all the elements to make your trip a fulfilling 'Japanese' experience (whatever that means). Just couple hours by train north of Tokyo, you can visit the shrine where the first Tokugawa shogun was buried, experience one of the three most beautifully ranked waterfalls in Japan, and spot wild monkeys on the road, it really covers most things you need to see in Japan (who doesn't want to see random monkeys crossing the road right?).
 
-[Monkeys on the street]({{ site.url }}/{{page.imgUrl}}wildmonkey.jpg)
+![Monkeys on the street]({{page.imgUrl}}wildmonkey.jpg)
 *Wild monkeys on the street*
-<!-- ![Nikko - city of sunlight]({{page.imgUrl}}sunlight.jpg) -->
 
 Not to mention these three wise monkeys :see_no_evil: :speak_no_evil: :hear_no_evil:! The mizaru, iwazaru and kikazaru (みざる いわざる きかざる) monkeys were actually made popular from a carving found in the Tōshōgu (東照宮), one of the attraction sites in Nikkō. Even Bashō (松尾 芭蕉, 1644 – 1694), the famous haiku poet from the Edo period, mentions Nikkō in one of his most famous work - The Narrow Road to the Interior (奥の細道 Oku no Hosomichi)- which is actually where I first heard of this little 'sunshine' (Nikkō literally translate to sunshine/sunlight) city. Bashō's haiku must have left an impact, because without any other prior knowledge of the place, it made it to our short Kantō itinerary (Yay).
 
-![The Tobu Nikko train station]({{ site.url }}/{{page.imgUrl}}tobuNikkoStation.jpg)<br/>
+![The Tobu Nikko train station]({{ site.url }}{{page.imgUrl}}tobuNikkoStation.jpg)<br/>
 *The Tobu Nikko train station*
 
-<!-- In fact, do these look familiar: :see_no_evil: :speak_no_evil: :hear_no_evil:? These three wise monkeys (みざる いわざる きかざる) you can find on most smart phones these days were actually made popular from a carving found in Tōshōgu (東照宮), the mausoleum of the first Shogun. Even Bashō (松尾 芭蕉, 1644 – 1694), the famous haiku poet from the Edo period, mentions Nikkō in one of his most famous work - The Narrow Road to the Interior (奥の細道 Oku no Hosomichi)- which is actually where I first heard of this little 'sunshine' (Nikkō literally translate to sunshine/sunlight) city. Bashō's haiku must have left an impact, because without any other prior knowledge of the place, it made it to our short Kantō itinerary, and I'm glad it did. -->
-
-
-<!-- Something about nikko countryside, population, photo of sky. ? -->
 
 We were here for three nights, two nights in the actual Nikkō city, and one in Kinugawa, an onsen (hot spring) town a lil bit up north, so this post will be split into three parts: [Nikkō Part1](../Nikko_part1), Part2 and Part3.
 
@@ -45,14 +40,14 @@ We were here for three nights, two nights in the actual Nikkō city, and one in 
 *Streets of Nikko*
 
 
-##sun and moon
-As I said above, we visited Nikkō in early December, at the beginning of Winter. One morning it got unbearably cold with our gear that we couldn't feel our feet, but apart from that in general the weather was nice, sunny and warm. We had a thickish jacket with us (like a snow jacket or puffy jacket), some woolies and beanie, thick socks and boots, and we were good to go. No snow down in the main township during this time of the year, but once we went up the mountain, it was all white. (snowman time!)
+## sun and moon
+We visited Nikkō in early December, at the beginning of Winter. One morning it got unbearably cold with our gear that we couldn't feel our feet, but apart from that in general the weather was nice, sunny and warm. We had a thickish jacket with us (like a snow jacket or puffy jacket), some woolies and beanie, thick socks and boots, and we were good to go. No snow down in the main township during this time of the year, but once we went up the mountain, it was all white. (snowman time!)
 
-Though, be aware of the sunset time. By the time it was 4.30, the sun was already setting, which cuts all the attraction sightseeing time short. (Though in winter, they tend to have much earlier closing time, so make use of your time!)
+Though, be aware of the sunset time. By the time it was 4.30, the sun was already setting, which cuts all the attraction sightseeing time short. (Also in winter, they tend to have much earlier closing time, so make use of your time!)
 
 
 
-##moving around
+## moving around
 
 Despite the city being lesser known outside of Japan, it flourishes as a popular local destination. Just hop on the Tōbu 東武 train that leaves from Asakusa, Tokyo and it will take you directly to the Tōbu Nikkō station in 2 hours or so. You can then find a network of buses, 3 lines in particular that circle around the attraction sites.
 
@@ -78,7 +73,7 @@ The train ride was pleasant and the weather was warm and cosy despite being Dece
 ![Training to Nikko]({{ site.url }}/{{page.imgUrl}}trainToNikko.jpg)<br/>
 *Training to Nikko*
 
-##sleep
+## sleep
 
 In choosing accommodation for Nikkō, (obviously price) but location is usually our biggest concern. We do not want to be lugging our heavy bags (should really have packed much lighter) up and down from the train station for too long. With that main criteria (and price and cleanliness and non-dodginess), we decided with the Nikkō Park Lodge, close-to-station version (It was literally 2 min walk from the train station). We contemplated on a more green and scenic option of the Nikkō Park Lodge, but from the website it mentions a good twenty minute walk in the cold which we did not want to have with our pet bags. Apart from some weirdly positioned arm chairs in the room and the website probably would do with a makeover, there is really nothing to complain about at the Nikkō Park Lodge. The one staff we met during check-in/out was quiet but friendly, room was spacious with air-conditioning/heater (something that makes your stay much more comfortable in December) and the beds were equipped with electric blanket (kind of homey and cosy right?). The room we booked had a small kitchen where we could cook breakfast, and a small balcony overlooking the town.
 
@@ -93,4 +88,4 @@ Nikkō is famous for something called yuba, which is basically tofu skin. You ca
 ![We did get a bit sick of looking at yuba after awhile...]({{ site.url }}/{{page.imgUrl}}yuba-soba-resized.jpg)<br/>
 *We did get a bit sick of looking at yuba after awhile...*
 
-Anyway, if you wanted to know more, click onto Part1, 2 and 3 (when they eventually get uploaded...)
+Anyway, if you wanted to know more, click onto [Part 1](../Nikko_part1), 2 and 3 (when they eventually get uploaded...)
