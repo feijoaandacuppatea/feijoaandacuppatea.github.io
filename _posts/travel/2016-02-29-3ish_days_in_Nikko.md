@@ -43,13 +43,6 @@ We were here for three nights, two nights in the actual Nikkō city, and one in 
 
 ![Streets of Nikko]({{ site.url }}/{{page.imgUrl}}nikkoStreet.jpg)<br/>
 *Streets of Nikko*
-<!-- 東照宮 Tōshō-gū: 'Lavish mausoleum of Tokugawa Ieyasu - first Shogun'
-
-![5t]({{page.imgUrl}}toshoguBW.jpg) -->
-
-<!-- Futarasan shrine: dedicated to Nikko's sacred mountains - mentioned in Basho's journal
-Taiyuinbyo: Mausoleum of Iemitsu - Ieyasu's grandson - much more tamer than his grandfather's but still extravagant
-shinkyo -->
 
 
 ##sun and moon
