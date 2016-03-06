@@ -25,18 +25,18 @@ Also, photos came from both S and I.
 ## reasons to leave our hermit habitat
 Probably not on your typical list of places to visit in Japan (usually consists of Tokyo and Osaka/Kyoto), but Nikkō in the Tōchigi prefecture has all the elements to make your trip a fulfilling 'Japanese' experience (whatever that means). Just couple hours by train north of Tokyo, you can visit the shrine where the first Tokugawa shogun was buried, experience one of the three most beautifully ranked waterfalls in Japan, and spot wild monkeys on the road, it really covers most things you need to see in Japan (who doesn't want to see random monkeys crossing the road right?).
 
-![Monkeys on the street]({{page.imgUrl}}wildmonkey.jpg)
-*Wild monkeys on the street*
+![Monkey on the street]({{page.imgUrl}}wildmonkey.jpg)
+*Wild monkey on the street*
 
 Not to mention these three wise monkeys :see_no_evil: :speak_no_evil: :hear_no_evil:! The mizaru, iwazaru and kikazaru (みざる いわざる きかざる) monkeys were actually made popular from a carving found in the Tōshōgu (東照宮), one of the attraction sites in Nikkō. Even Bashō (松尾 芭蕉, 1644 – 1694), the famous haiku poet from the Edo period, mentions Nikkō in one of his most famous work - The Narrow Road to the Interior (奥の細道 Oku no Hosomichi)- which is actually where I first heard of this little 'sunshine' (Nikkō literally translate to sunshine/sunlight) city. Bashō's haiku must have left an impact, because without any other prior knowledge of the place, it made it to our short Kantō itinerary (Yay).
 
-![The Tobu Nikko train station]({{ site.url }}{{page.imgUrl}}tobuNikkoStation.jpg)<br/>
+![The Tobu Nikko train station]({{page.imgUrl}}tobuNikkoStation.jpg)<br/>
 *The Tobu Nikko train station*
 
 
 We were here for three nights, two nights in the actual Nikkō city, and one in Kinugawa, an onsen (hot spring) town a lil bit up north, so this post will be split into three parts: [Nikkō Part1](../Nikko_part1), Part2 and Part3.
 
-![Streets of Nikko]({{ site.url }}/{{page.imgUrl}}nikkoStreet.jpg)<br/>
+![Streets of Nikko]({{page.imgUrl}}nikkoStreet.jpg)<br/>
 *Streets of Nikko*
 
 
@@ -53,10 +53,10 @@ Despite the city being lesser known outside of Japan, it flourishes as a popular
 
 Since we also included Kinugawa (鬼怒川) in our trip, we went with the All Nikko Pass that covers exactly the four day period we were there for (Info found at http://www.tobu.co.jp/foreign/). It costs 4520 yen (in 2014) and gives us the flexibility to travel between all the attractions we wanted to visit without paying any extra. This also allows you to ride on the bus lines mentioned above freely.
 
-![The routes that the All Nikko Pass covers]({{ site.url }}/{{page.imgUrl}}allnikkomap.png)<br/>
+![The routes that the All Nikko Pass covers]({{page.imgUrl}}allnikkomap.png)<br/>
 *The routes that the All Nikko Pass covers*
 
-![The All Nikko Pass]({{ site.url }}/{{page.imgUrl}}allNikkoPass.png)<br/>
+![The All Nikko Pass]({{page.imgUrl}}allNikkoPass.jpg)<br/>
 *The All Nikko Pass (remember to keep it in a safe place throughout your journey)*
 
 Just couple of important points to note:
@@ -65,12 +65,12 @@ Just couple of important points to note:
 - The time period of the pass is inclusive, which means if you get the All Nikkō Pass, you have to return to Tōkyō on the fourth day for it to be effective
 - The pass does not include an express (Tokyuu) ticket, meaning you cannot ride on the Express trains unless you pay extra for it
 
-![Tokyo Sky Tree from the train]({{ site.url }}/{{page.imgUrl}}skytreeOnTrain.jpg)<br/>
+![Tokyo Sky Tree from the train]({{page.imgUrl}}skytreeOnTrain.jpg)<br/>
 *Tokyo Sky Tree from the train*
 
 The train ride was pleasant and the weather was warm and cosy despite being December (Sasuga heading towards the sunlight city). Full of excitement as this was our first stop (S has looked past the disappointment during the train ride thankfully), we headed towards our lodge to check-in before commencing our exploration in the afternoon. (If you are staying somewhere further away, you can leave your luggage at the coin lockers at the station and do some touring first before coming back to collect them)
 
-![Training to Nikko]({{ site.url }}/{{page.imgUrl}}trainToNikko.jpg)<br/>
+![Training to Nikko]({{page.imgUrl}}trainToNikko.jpg)<br/>
 *Training to Nikko*
 
 ## sleep
@@ -85,7 +85,7 @@ In choosing accommodation for Nikkō, (obviously price) but location is usually 
 ##eat
 Nikkō is famous for something called yuba, which is basically tofu skin. You can literally find it anywhere you go, with anything, but mostly with some sort of noodles like udon or soba.
 
-![We did get a bit sick of looking at yuba after awhile...]({{ site.url }}/{{page.imgUrl}}yuba-soba-resized.jpg)<br/>
+![We did get a bit sick of looking at yuba after awhile...]({{page.imgUrl}}yuba-soba-resized.jpg)<br/>
 *We did get a bit sick of looking at yuba after awhile...*
 
 Anyway, if you wanted to know more, click onto [Part 1](../Nikko_part1), 2 and 3 (when they eventually get uploaded...)
